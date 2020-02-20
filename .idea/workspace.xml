@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3c9cd0-ed11-4c36-a61d-3646779b01d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UwF1GrgmhKhYQcPzhA3Ez24MhE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/unit_test-demo" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.CurrencyFormatter">
+    <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anagrams" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigDecimalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BigDecimalSort" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CurrencyFormatter" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Regex" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTokens" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Anagrams" />
+      <item itemvalue="Application.BigDecimalSort" />
+      <item itemvalue="Application.CurrencyFormatter" />
+      <item itemvalue="Application.Regex" />
+      <item itemvalue="Application.StringTokens" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CurrencyFormatter" />
+        <item itemvalue="Application.BigDecimalSort" />
+        <item itemvalue="Application.Regex" />
+        <item itemvalue="Application.StringTokens" />
+        <item itemvalue="Application.Anagrams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3c9cd0-ed11-4c36-a61d-3646779b01d7" name="Default Changelist" comment="" />
+      <created>1576259533137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576259533137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1866" y="184" key="FileChooserDialogImpl" timestamp="1576523258687">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1866" y="184" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1576523258687" />
+    <state width="1367" height="144" key="GridCell.Tab.0.bottom" timestamp="1579281134646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1441" height="230" key="GridCell.Tab.0.bottom/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576272193338" />
+    <state width="1367" height="144" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1579281134646" />
+    <state width="1441" height="284" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state width="1367" height="144" key="GridCell.Tab.0.center" timestamp="1579281134646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1441" height="230" key="GridCell.Tab.0.center/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576272193338" />
+    <state width="1367" height="144" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1579281134646" />
+    <state width="1441" height="284" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state width="1367" height="144" key="GridCell.Tab.0.left" timestamp="1579281134646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1441" height="230" key="GridCell.Tab.0.left/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576272193338" />
+    <state width="1367" height="144" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1579281134646" />
+    <state width="1441" height="284" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state width="1367" height="144" key="GridCell.Tab.0.right" timestamp="1579281134646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1441" height="230" key="GridCell.Tab.0.right/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576272193338" />
+    <state width="1367" height="144" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1579281134646" />
+    <state width="1441" height="284" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state width="1441" height="284" key="GridCell.Tab.1.bottom" timestamp="1578086687949">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1441" height="284" key="GridCell.Tab.1.bottom/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576270862703" />
+    <state width="1441" height="284" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state width="1441" height="284" key="GridCell.Tab.1.center" timestamp="1578086687949">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1441" height="284" key="GridCell.Tab.1.center/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576270862703" />
+    <state width="1441" height="284" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state width="1441" height="284" key="GridCell.Tab.1.left" timestamp="1578086687949">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1441" height="284" key="GridCell.Tab.1.left/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576270862703" />
+    <state width="1441" height="284" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state width="1441" height="284" key="GridCell.Tab.1.right" timestamp="1578086687949">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1441" height="284" key="GridCell.Tab.1.right/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576270862703" />
+    <state width="1441" height="284" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578086687949" />
+    <state x="493" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1578317904535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1024" y="125" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1440.-128.1440.860@-1440.-128.1440.860" timestamp="1576266338525" />
+    <state x="493" y="222" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578317904535" />
+    <state x="1468" y="51" key="new project wizard" timestamp="1578327095042">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1468" y="51" key="new project wizard/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578327095042" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
